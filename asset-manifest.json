@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mafia-mobile/static/css/main.dd10cbc9.css",
-    "main.js": "/mafia-mobile/static/js/main.0372fb19.js",
+    "main.js": "/mafia-mobile/static/js/main.934de652.js",
     "static/js/787.5418a7b5.chunk.js": "/mafia-mobile/static/js/787.5418a7b5.chunk.js",
     "index.html": "/mafia-mobile/index.html",
-    "main.0372fb19.js.map": "/mafia-mobile/static/js/main.0372fb19.js.map",
+    "main.934de652.js.map": "/mafia-mobile/static/js/main.934de652.js.map",
     "787.5418a7b5.chunk.js.map": "/mafia-mobile/static/js/787.5418a7b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd10cbc9.css",
-    "static/js/main.0372fb19.js"
+    "static/js/main.934de652.js"
   ]
 }
