@@ -14,10 +14,10 @@ import PlayersItem from "./Players/PlayersItem";
 import { getPlayersNames } from "../games/statsSelectors";
 
 export default function Profile() {
-  const [name, setName] = useState(window.sessionStorage.getItem('profile-name') || "");
+  const [name, setName] = useState(window.localStorage.getItem('profile-name') || "");
 
   useEffect(() => {
-    window.sessionStorage.setItem('profile-name', name);
+    window.localStorage.setItem('profile-name', name);
   }, [name]);
 
   const handleChange = (event: SelectChangeEvent) => {
